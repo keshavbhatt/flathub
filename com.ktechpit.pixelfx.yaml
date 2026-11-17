@@ -181,8 +181,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/keshavbhatt/PixelFx.git
-        tag: v2.0.2
-        commit: 38a5984ab188233b3547d3a2c0c0e6dec3384e02
+        tag: v2.0.4
+        commit: 33ad7bfbb4c0ce616cc52df465d5cde927c08bad
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
